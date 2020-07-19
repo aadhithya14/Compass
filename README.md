@@ -55,13 +55,13 @@ These are few examples of the animations that we made for various commands on LE
 
 **Team Members**
 
-1)V.Aadhithya Iyer
+1) V.Aadhithya Iyer
 
-2)Karan Pandya
+2) Karan Pandya
 
-3)Prakrut Kotecha
+3) Prakrut Kotecha
 
-4)Ravishankar Gaikwad
+4) Ravishankar Gaikwad
 
 
 
