@@ -50,10 +50,11 @@ These are few examples of the animations that we made for various commands on LE
 
 **Resources**:-
 
-1) Youtube(https://www.youtube.com/watch?v=ePORvzIond8)
-2) Publications section under Ivlabs Website(https://www.ivlabs.in/)
+1) [Youtube](https://www.youtube.com/watch?v=ePORvzIond8)
+2) [Publications section under Ivlabs Website](https://www.ivlabs.in/)
 
 **Team Members**
+
 1)V.Aadhithya Iyer
 
 2)Karan Pandya
