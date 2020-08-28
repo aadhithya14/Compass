@@ -29,7 +29,7 @@ These are few examples of the animations that we made for various commands on LE
 * Operational amplifier circuit
 * Arduino Pro Mini
 * MAX7219(8x8 LED matrix)
-* Li-ion battery
+* Li-polymer battery
 * Bluetooth audio receiver
 
 **Features**:
@@ -64,6 +64,7 @@ These are few examples of the animations that we made for various commands on LE
 4) Ravishankar Gaikwad
 
 **Mentors**
+
 1)Rohit Lal
 
 2)Rishesh Agarwal
