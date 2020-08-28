@@ -63,6 +63,17 @@ These are few examples of the animations that we made for various commands on LE
 
 4) Ravishankar Gaikwad
 
+**Mentors**
+1)Rohit Lal
+
+2)Rishesh Agarwal
+
+3)Amarapali Khandare
+
+**Special Thanks**
+
+Dr. Shital Chiddarwar
+
 
 
 
