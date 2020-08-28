@@ -65,11 +65,11 @@ These are few examples of the animations that we made for various commands on LE
 
 **Mentors**
 
-1)Rohit Lal
+1) Rohit Lal
 
-2)Rishesh Agarwal
+2) Rishesh Agarwal
 
-3)Amarapali Khandare
+3) Amarapali Khandare
 
 **Special Thanks**
 
